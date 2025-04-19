@@ -11,6 +11,7 @@
   * 以及占空比(上升沿到下降沿的时间/周期)
   *
   * @IO
+  * 硬件串口            PC4 -> USART1_TX              PC5 -> USART1_RX
   * 按键中断            PC13-> KEY
   * 信号输入            PA0 -> TIM2_CH1 -> Signal_IN
   *
